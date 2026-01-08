@@ -1,6 +1,5 @@
 # Netflix Dashboard 
 
-### Dashboard Link - https://app.powerbi.com/groups/me/reports/72495aa8-7a43-46aa-afe3-2a6e2e1924cb/ReportSection?experience=power-bi
 
 This project aims to conduct an in-depth analysis of user behavior on the Netflix streaming platform, seeking to uncover patterns, trends, and insights that can inform strategic decisions for content creation, 
 user engagement, and platform optimization. Leveraging a diverse dataset encompassing user interactions, viewing history, and demographic information, we employ advanced data analysis techniques to extract meaningful information.
